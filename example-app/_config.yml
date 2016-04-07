@@ -1,0 +1,3 @@
+#~ auto: true
+#~ destination: /var/www/example-app
+#~ permalink: /:categories/:title.html
